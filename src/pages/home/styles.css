@@ -1,0 +1,33 @@
+.image-div {
+  background-position-y: 3rem;
+}
+
+@media (min-width: 768px) {
+  .image-div {
+    background-position: bottom;
+  }
+}
+
+@media (min-width: 1024px) {
+  .image-div {
+    background-position-y: 3rem;
+  }
+}
+
+/* @media (min-width: 1150px) {
+  .image-div {
+    background-position-y: 4rem;
+  }
+} */
+
+@media (min-width: 1200px) {
+  .image-div {
+    background-position-y: 3rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .image-div {
+    background-position: center;
+  }
+}
